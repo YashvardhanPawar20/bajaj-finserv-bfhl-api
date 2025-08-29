@@ -35,10 +35,10 @@ app.add_middleware(
 )
 
 # Constants - Replace these with actual values
-FULL_NAME_LOWERCASE = "yashvardhan_pawar"
-DOB_DDMMYYYY = "20091999"
+FULL_NAME_LOWERCASE = "yashvardhan_ravindra_pawar"
+DOB_DDMMYYYY = "20032003"
 EMAIL_ID = "yashvardhanpawar20@gmail.com"
-ROLL_NUMBER = "22BCE1234"
+ROLL_NUMBER = "22BCE2074"
 
 USER_ID = f"{FULL_NAME_LOWERCASE}_{DOB_DDMMYYYY}"
 
